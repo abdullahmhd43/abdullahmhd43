@@ -1,11 +1,18 @@
-<!-- ===================== HERO ===================== -->
+<!-- ===================== ANIMATED HEADER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:1D4ED8&height=190&section=header&text=MOHAMED%20ABDULLAH&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<!-- ===================== PROFILE ===================== -->
 
 <div align="center">
 
 # 👋 Hello, I'm Mohamed Abdullah
 
-### AI Full Stack Developer | Web & App Developer | Software Developer
-### CCNA | Networking | Cloud & DevOps
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=AI+Full+Stack+Developer;Web+%26+App+Developer;Software+Developer;CCNA+%7C+Networking;Cloud+%26+DevOps" alt="Typing Animation" />
+</p>
 
 <p>
   <a href="https://github.com/abdullahmhd43">
@@ -44,9 +51,9 @@ I enjoy building practical digital solutions while continuously developing my sk
 
 ---
 
-## 🛠️ Technology Arsenal
+# 🛠️ Technology Arsenal
 
-### 🎨 Frontend Development
+## 🎨 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
@@ -60,7 +67,7 @@ I enjoy building practical digital solutions while continuously developing my sk
 
 ---
 
-### ⚙️ Backend Development
+## ⚙️ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
@@ -73,7 +80,7 @@ I enjoy building practical digital solutions while continuously developing my sk
 
 ---
 
-### 🗄️ Database Technologies
+## 🗄️ Database Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
@@ -87,7 +94,7 @@ I enjoy building practical digital solutions while continuously developing my sk
 
 ---
 
-### 📱 Mobile Development
+## 📱 Mobile Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
@@ -99,7 +106,7 @@ I enjoy building practical digital solutions while continuously developing my sk
 
 ---
 
-### ☁️ Cloud & DevOps
+## ☁️ Cloud & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,git,github" />
@@ -115,7 +122,7 @@ I enjoy building practical digital solutions while continuously developing my sk
 
 ---
 
-### 🌐 Networking
+## 🌐 Networking
 
 - CCNA
 - Computer Networking
@@ -124,7 +131,7 @@ I enjoy building practical digital solutions while continuously developing my sk
 
 ---
 
-### 🎨 Development & Design Tools
+## 🎨 Development & Design Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,figma" />
@@ -146,7 +153,7 @@ I enjoy building practical digital solutions while continuously developing my sk
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🤖 VirtualFit Pro
 
@@ -192,19 +199,19 @@ I enjoy building practical digital solutions while continuously developing my sk
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-### Kingston University
+### 🎓 Kingston University
 
 **BSc (Hons) Software Engineering**
 
-### Pearson / ESOFT Metro Campus
+### 🎓 Pearson / ESOFT Metro Campus
 
 **Higher National Diploma (HND) in Software Engineering**
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -222,7 +229,7 @@ I enjoy building practical digital solutions while continuously developing my sk
 
 ---
 
-## 🌱 Currently Growing
+# 🌱 Currently Growing
 
 I'm continuously developing my knowledge and practical skills in:
 
@@ -240,7 +247,7 @@ I'm continuously developing my knowledge and practical skills in:
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <div align="center">
 
@@ -271,3 +278,9 @@ I'm continuously developing my knowledge and practical skills in:
 ⭐ Thanks for visiting my profile!
 
 </div>
+
+<!-- ===================== ANIMATED FOOTER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:2563EB,100:0F172A&height=120&section=footer" />
+</p>
