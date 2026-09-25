@@ -202,7 +202,9 @@ I enjoy building practical digital solutions while continuously developing my sk
 
 ### 🎓 Kingston University
 
-**BSc (Hons) Software Engineering**
+**BSc (Hons) in Computer Science (Software Engineering)**
+
+---
 
 ### 🎓 Pearson / ESOFT Metro Campus
 
