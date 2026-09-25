@@ -31,7 +31,7 @@
 
 I'm **Mohamed Abdullah**, a Software Engineering graduate passionate about building modern software solutions across **AI, full-stack development, web applications, mobile applications, networking, cloud, and DevOps**.
 
-I enjoy turning ideas into practical digital products while continuously developing my skills in software engineering, cloud infrastructure, networking, and modern development technologies.
+I enjoy building practical digital solutions while continuously developing my skills in software engineering, cloud technologies, networking, and modern development tools.
 
 - 🤖 AI Application Development
 - 💻 Full Stack Development
@@ -41,7 +41,6 @@ I enjoy turning ideas into practical digital products while continuously develop
 - ⚙️ DevOps
 - 🌐 Networking & CCNA
 - 🚀 Building practical software projects
-- 📚 Continuous learning and improvement
 
 ---
 
@@ -151,79 +150,55 @@ I enjoy turning ideas into practical digital products while continuously develop
 
 ### 🤖 VirtualFit Pro
 
-AI-focused application project.
-
-🔗 **Repository:**  
-https://github.com/abdullahmhd43/virtualfit-pro
+🔗 [View Repository](https://github.com/abdullahmhd43/virtualfit-pro)
 
 ---
 
 ### 🏪 New Ceylon Textiles
 
-Textile business-oriented software project.
-
-🔗 **Repository:**  
-https://github.com/abdullahmhd43/New-Ceylon-Textiles
+🔗 [View Repository](https://github.com/abdullahmhd43/New-Ceylon-Textiles)
 
 ---
 
 ### 🏥 SmartCare Healthcare System
 
-Healthcare management system project.
-
-🔗 **Repository:**  
-https://github.com/abdullahmhd43/smartcare-healthcare-system
+🔗 [View Repository](https://github.com/abdullahmhd43/smartcare-healthcare-system)
 
 ---
 
 ### 🔧 Practical Git
 
-Git practice and learning repository.
-
-🔗 **Repository:**  
-https://github.com/abdullahmhd43/practicalgit
+🔗 [View Repository](https://github.com/abdullahmhd43/practicalgit)
 
 ---
 
 ### 🌐 Mohamed Abdullah Portfolio
 
-Personal portfolio website.
+🔗 [View Repository](https://github.com/abdullahmhd43/mohamed-abdullah-portfolio1)
 
-🔗 **Repository:**  
-https://github.com/abdullahmhd43/mohamed-abdullah-portfolio1
-
-🌐 **Live Portfolio:**  
-https://mohamed-abdullah-portfolio1.vercel.app/
+🌐 [Live Portfolio](https://mohamed-abdullah-portfolio1.vercel.app/)
 
 ---
 
 ### 🎓 Udemy Clone
 
-Web development project inspired by an online learning platform.
-
-🔗 **Repository:**  
-https://github.com/abdullahmhd43/Udemy-Clone
+🔗 [View Repository](https://github.com/abdullahmhd43/Udemy-Clone)
 
 ---
 
 ### 🌤️ Weather Mate
 
-Weather application project.
-
-🔗 **Repository:**  
-https://github.com/abdullahmhd43/Weather_Mate
+🔗 [View Repository](https://github.com/abdullahmhd43/Weather_Mate)
 
 ---
 
 ## 🎓 Education
 
-### 🎓 Kingston University
+### Kingston University
 
 **BSc (Hons) Software Engineering**
 
----
-
-### 🎓 Pearson / ESOFT Metro Campus
+### Pearson / ESOFT Metro Campus
 
 **Higher National Diploma (HND) in Software Engineering**
 
@@ -235,28 +210,15 @@ https://github.com/abdullahmhd43/Weather_Mate
 
 <img src="https://github-readme-stats.vercel.app/api?username=abdullahmhd43&show_icons=true&hide_border=true&count_private=true" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmhd43&layout=compact&hide_border=true" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=abdullahmhd43&hide_border=true" />
 
 </div>
-
----
-
-## 🎯 Areas I Work With
-
-- 🤖 AI Development
-- 💻 Full Stack Development
-- 🌐 Web Development
-- 📱 Mobile Application Development
-- ⚙️ Backend & API Development
-- 🗄️ Database Technologies
-- ☁️ Cloud & DevOps
-- 🌐 Networking & CCNA
 
 ---
 
