@@ -1,17 +1,23 @@
 <!-- ===================== ANIMATED HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:1D4ED8&height=190&section=header&text=MOHAMED%20ABDULLAH&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:2563EB&height=210&section=header&text=MOHAMED%20ABDULLAH&fontSize=44&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn"
+    width="100%"
+  />
 </p>
 
-<!-- ===================== PROFILE ===================== -->
+<!-- ===================== INTRO ===================== -->
 
 <div align="center">
 
 # 👋 Hello, I'm Mohamed Abdullah
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=750&lines=AI+Full+Stack+Developer;Web+%26+App+Developer;Software+Developer;CCNA+%7C+Networking;Cloud+%26+DevOps" alt="Typing Animation" />
+<p>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=1200&pause=350&color=2563EB&center=true&vCenter=true&width=800&lines=AI+Full+Stack+Developer;Web+%26+App+Developer;Software+Developer;CCNA+%7C+Networking;Cloud+%26+DevOps"
+    alt="Typing Animation"
+  />
 </p>
 
 <p>
@@ -22,12 +28,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Abdullah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://mohamed-abdullah-portfolio1.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=abdullahmhd43&label=Profile%20Views&color=2563EB&style=for-the-badge" />
+  <img
+    src="https://komarev.com/ghpvc/?username=abdullahmhd43&label=Profile%20Views&color=2563EB&style=for-the-badge"
+  />
 </p>
 
 </div>
@@ -53,72 +61,80 @@ I enjoy building practical digital solutions while continuously developing my sk
 
 # 🛠️ Technology Arsenal
 
+## ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,php,mongodb,mysql,postgres,supabase,flutter,dart,firebase,aws,linux,docker,kubernetes,terraform,git,github,vscode,figma&perline=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Frontend**  
+HTML5 • CSS3 • JavaScript • React.js • Tailwind CSS
+
+**Backend**  
+Node.js • Express.js • PHP • REST APIs
+
+**Database**  
+MongoDB • MySQL • SQL • PostgreSQL • Supabase
+
+**Mobile**  
+Flutter • Dart • Firebase
+
+**Cloud & DevOps**  
+AWS • Linux • Docker • Kubernetes • Terraform • Git • GitHub
+
+**Networking**  
+CCNA • Computer Networking • Network Fundamentals
+
+**Tools**  
+VS Code • Figma • Canva • Adobe Photoshop
+
+</div>
+
+---
+
 ## 🎨 Frontend Development
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
-
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Tailwind CSS
 
 ---
 
 ## ⚙️ Backend Development
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,php" />
 </p>
-
-- Node.js
-- Express.js
-- PHP
-- REST APIs
 
 ---
 
 ## 🗄️ Database Technologies
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
 </p>
-
-- MongoDB
-- MySQL
-- SQL
-- PostgreSQL
-- Supabase
 
 ---
 
 ## 📱 Mobile Development
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </p>
-
-- Flutter
-- Dart
-- Firebase
 
 ---
 
 ## ☁️ Cloud & DevOps
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,git,github" />
 </p>
-
-- AWS
-- Linux
-- Docker
-- Kubernetes
-- Terraform
-- Git
-- GitHub
 
 ---
 
@@ -132,10 +148,6 @@ I enjoy building practical digital solutions while continuously developing my sk
 ---
 
 ## 🎨 Development & Design Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,figma" />
-</p>
 
 - VS Code
 - Figma
@@ -155,47 +167,65 @@ I enjoy building practical digital solutions while continuously developing my sk
 
 # 🚀 Featured Projects
 
+<div align="center">
+
 ### 🤖 VirtualFit Pro
 
-🔗 [View Repository](https://github.com/abdullahmhd43/virtualfit-pro)
+AI-focused project
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahmhd43/virtualfit-pro)
 
 ---
 
 ### 🏪 New Ceylon Textiles
 
-🔗 [View Repository](https://github.com/abdullahmhd43/New-Ceylon-Textiles)
+Textile business software project
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahmhd43/New-Ceylon-Textiles)
 
 ---
 
 ### 🏥 SmartCare Healthcare System
 
-🔗 [View Repository](https://github.com/abdullahmhd43/smartcare-healthcare-system)
+Healthcare system project
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahmhd43/smartcare-healthcare-system)
 
 ---
 
 ### 🔧 Practical Git
 
-🔗 [View Repository](https://github.com/abdullahmhd43/practicalgit)
+Git practice and learning repository
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahmhd43/practicalgit)
 
 ---
 
 ### 🌐 Mohamed Abdullah Portfolio
 
-🔗 [View Repository](https://github.com/abdullahmhd43/mohamed-abdullah-portfolio1)
+Personal portfolio website
 
-🌐 [Live Portfolio](https://mohamed-abdullah-portfolio1.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahmhd43/mohamed-abdullah-portfolio1)
+
+[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamed-abdullah-portfolio1.vercel.app/)
 
 ---
 
 ### 🎓 Udemy Clone
 
-🔗 [View Repository](https://github.com/abdullahmhd43/Udemy-Clone)
+Web development project
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahmhd43/Udemy-Clone)
 
 ---
 
 ### 🌤️ Weather Mate
 
-🔗 [View Repository](https://github.com/abdullahmhd43/Weather_Mate)
+Weather application project
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahmhd43/Weather_Mate)
+
+</div>
 
 ---
 
@@ -215,15 +245,22 @@ I enjoy building practical digital solutions while continuously developing my sk
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdullahmhd43&show_icons=true&hide_border=true&count_private=true" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=abdullahmhd43&show_icons=true&hide_border=true&count_private=true"
+  height="170"
+/>
 
-<br/><br/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmhd43&layout=compact&hide_border=true"
+  height="170"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahmhd43&layout=compact&hide_border=true" />
+<br><br>
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=abdullahmhd43&hide_border=true" />
+<img
+  src="https://streak-stats.demolab.com?user=abdullahmhd43&hide_border=true"
+  width="600"
+/>
 
 </div>
 
@@ -244,6 +281,22 @@ I'm continuously developing my knowledge and practical skills in:
 - ☸️ Kubernetes
 - 🏗️ Terraform
 - 🌐 Networking & CCNA
+
+---
+
+# 💡 Development Philosophy
+
+<div align="center">
+
+### Code • Learn • Build • Improve
+
+<br>
+
+**Building practical solutions.  
+Learning modern technologies.  
+Improving every day.**
+
+</div>
 
 ---
 
@@ -273,14 +326,15 @@ I'm continuously developing my knowledge and practical skills in:
 
 <div align="center">
 
-### 💡 Code • Learn • Build • Improve
-
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
 
 </div>
 
 <!-- ===================== ANIMATED FOOTER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,50:2563EB,100:0F172A&height=120&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1D4ED8,100:0F172A&height=130&section=footer"
+    width="100%"
+  />
 </p>
